@@ -7,7 +7,7 @@
         "Thriller"
       ],
       "release_date": "2024-12-11",
-      "rating": 5.9,
+      "rating": 5.852,
       "overview": "11 years ago, inspector Malik couldn’t solve a kidnapping case and a little girl died. Now with only a few days before the crime gets classified, he decides to reopen the case. Malik owes it to the mother and to himself. As he digs into the past, a child is kidnapped again. The pattern is the same one as a decade ago, it’s no coincidence. Malik knows he has a few days to make things right and to bring justice.",
       "actors": [
         "Sami Bouajila",
@@ -24,7 +24,7 @@
         "Pictanovo",
         "Région Hauts-de-France"
       ],
-      "popularity": 374.3565
+      "popularity": 362.8095
     },
     {
       "title": "Chainsaw Man - The Movie: Reze Arc",
@@ -59,7 +59,7 @@
         "Science Fiction"
       ],
       "release_date": "2025-11-05",
-      "rating": 7.0,
+      "rating": 7.041,
       "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
       "actors": [
         "Elle Fanning",
@@ -236,7 +236,7 @@
         "Thriller"
       ],
       "release_date": "2002-08-09",
-      "rating": 6.0,
+      "rating": 5.965,
       "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
       "actors": [
         "Vin Diesel",
@@ -259,7 +259,7 @@
         "Comedy"
       ],
       "release_date": "2025-09-12",
-      "rating": 7.2,
+      "rating": 7.267,
       "overview": "A burned-out paramedic tries to survive his last 24 hours on the job while training a new recruit.",
       "actors": [
         "Rainn Wilson",
@@ -287,7 +287,7 @@
         "Thriller"
       ],
       "release_date": "2025-09-04",
-      "rating": 6.664,
+      "rating": 6.596,
       "overview": "In 1993, Maureen’s six-year-old daughter Amina is snuck out of the country by her ex-husband, Karim. After years of unsuccessful attempts to find her, Maureen intersects with a professional retriever of internationally abducted children who promises to help her find Amina in exchange for her collaboration.",
       "actors": [
         "Kate Beckinsale",
@@ -315,7 +315,7 @@
         "Science Fiction"
       ],
       "release_date": "2025-07-23",
-      "rating": 7.098,
+      "rating": 7.096,
       "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
       "actors": [
         "Pedro Pascal",
@@ -354,7 +354,7 @@
       "production_companies": [
         "2 Hungry Crocodiles"
       ],
-      "popularity": 90.2367
+      "popularity": 84.0499
     },
     {
       "title": "The Toxic Avenger Unrated",
@@ -405,7 +405,7 @@
         "Big Punch Pictures",
         "Nova Film"
       ],
-      "popularity": 78.4998
+      "popularity": 74.9018
     },
     {
       "title": "Primitive War",
@@ -415,7 +415,7 @@
         "War"
       ],
       "release_date": "2025-08-21",
-      "rating": 6.899,
+      "rating": 6.9,
       "overview": "During the Vietnam War, a recon unit ventures to an isolated jungle valley to uncover the fate of a missing platoon. They soon find themselves in a fight for their lives against an unexpected enemy — prehistoric dinosaurs.",
       "actors": [
         "Jeremy Piven",
@@ -429,7 +429,7 @@
       "production_companies": [
         "Sparke Films"
       ],
-      "popularity": 70.812
+      "popularity": 70.3661
     },
     {
       "title": "Marco",
@@ -514,7 +514,7 @@
         "Science Fiction"
       ],
       "release_date": "2025-07-01",
-      "rating": 6.377,
+      "rating": 6.379,
       "overview": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
       "actors": [
         "Scarlett Johansson",
@@ -539,7 +539,7 @@
         "Thriller"
       ],
       "release_date": "2025-05-17",
-      "rating": 7.268,
+      "rating": 7.269,
       "overview": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
       "actors": [
         "Tom Cruise",
@@ -565,7 +565,7 @@
         "Science Fiction"
       ],
       "release_date": "2025-10-08",
-      "rating": 6.357,
+      "rating": 6.364,
       "overview": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings.",
       "actors": [
         "Jared Leto",
@@ -641,7 +641,7 @@
         "Fantasy"
       ],
       "release_date": "2001-12-18",
-      "rating": 8.426,
+      "rating": 8.4,
       "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
       "actors": [
         "Elijah Wood",
@@ -957,6 +957,32 @@
       "popularity": 23.2314
     },
     {
+      "title": "The Naked Gun",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "release_date": "2025-07-30",
+      "rating": 6.544,
+      "overview": "Only one man has the particular set of skills... to lead Police Squad and save the world: Lt. Frank Drebin Jr.",
+      "actors": [
+        "Liam Neeson",
+        "Pamela Anderson",
+        "Paul Walter Hauser",
+        "Danny Huston",
+        "CCH Pounder"
+      ],
+      "director": "Akiva Schaffer",
+      "runtime": 86,
+      "production_companies": [
+        "Fuzzy Door Productions",
+        "Paramount Pictures",
+        "Domain Entertainment"
+      ],
+      "popularity": 35.2859
+    },
+    {
       "title": "Avengers: Age of Ultron",
       "genres": [
         "Action",
@@ -964,7 +990,7 @@
         "Science Fiction"
       ],
       "release_date": "2015-04-22",
-      "rating": 7.271,
+      "rating": 7.3,
       "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
       "actors": [
         "Robert Downey Jr.",
@@ -1003,35 +1029,6 @@
         "Marvel Studios"
       ],
       "popularity": 39.2669
-    },
-    {
-      "title": "Predator",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ],
-      "release_date": "1987-06-12",
-      "rating": 7.54,
-      "overview": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
-      "actors": [
-        "Arnold Schwarzenegger",
-        "Carl Weathers",
-        "Kevin Peter Hall",
-        "Elpidia Carrillo",
-        "Bill Duke"
-      ],
-      "director": "John McTiernan",
-      "runtime": 107,
-      "production_companies": [
-        "20th Century Fox",
-        "Lawrence Gordon Productions",
-        "Silver Pictures",
-        "Davis Entertainment",
-        "Amercent Films",
-        "American Entertainment Partners L.P."
-      ],
-      "popularity": 33.6303
     }
   ],
   "thriller": [
@@ -1042,7 +1039,7 @@
         "Thriller"
       ],
       "release_date": "2024-12-11",
-      "rating": 5.9,
+      "rating": 5.852,
       "overview": "11 years ago, inspector Malik couldn’t solve a kidnapping case and a little girl died. Now with only a few days before the crime gets classified, he decides to reopen the case. Malik owes it to the mother and to himself. As he digs into the past, a child is kidnapped again. The pattern is the same one as a decade ago, it’s no coincidence. Malik knows he has a few days to make things right and to bring justice.",
       "actors": [
         "Sami Bouajila",
@@ -1059,7 +1056,7 @@
         "Pictanovo",
         "Région Hauts-de-France"
       ],
-      "popularity": 374.3565
+      "popularity": 362.8095
     },
     {
       "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
@@ -1146,7 +1143,7 @@
         "Thriller"
       ],
       "release_date": "2002-08-09",
-      "rating": 6.0,
+      "rating": 5.965,
       "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
       "actors": [
         "Vin Diesel",
@@ -1170,7 +1167,7 @@
         "Thriller"
       ],
       "release_date": "2025-09-04",
-      "rating": 6.664,
+      "rating": 6.596,
       "overview": "In 1993, Maureen’s six-year-old daughter Amina is snuck out of the country by her ex-husband, Karim. After years of unsuccessful attempts to find her, Maureen intersects with a professional retriever of internationally abducted children who promises to help her find Amina in exchange for her collaboration.",
       "actors": [
         "Kate Beckinsale",
@@ -1212,7 +1209,7 @@
       "production_companies": [
         "2 Hungry Crocodiles"
       ],
-      "popularity": 90.2367
+      "popularity": 84.0499
     },
     {
       "title": "Holy Night: Demon Hunters",
@@ -1238,7 +1235,7 @@
         "Big Punch Pictures",
         "Nova Film"
       ],
-      "popularity": 78.4998
+      "popularity": 74.9018
     },
     {
       "title": "Marco",
@@ -1272,7 +1269,7 @@
         "Thriller"
       ],
       "release_date": "2025-05-17",
-      "rating": 7.268,
+      "rating": 7.269,
       "overview": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
       "actors": [
         "Tom Cruise",
@@ -1548,7 +1545,7 @@
         "Frantz Confiac",
         "Emmanuel Garijo"
       ],
-      "director": "Benoît Daffis",
+      "director": "Jean-Christian Tassy",
       "runtime": 87,
       "production_companies": [
         "TAT Productions",
@@ -1614,7 +1611,7 @@
         "Traverse Terror",
         "Epic Pictures"
       ],
-      "popularity": 75.1512
+      "popularity": 67.8442
     },
     {
       "title": "The Mannequin",
@@ -1645,11 +1642,12 @@
       "title": "Ballad of a Small Player",
       "genres": [
         "Crime",
+        "Drama",
         "Mystery",
         "Thriller"
       ],
       "release_date": "2025-10-15",
-      "rating": 5.93,
+      "rating": 5.9,
       "overview": "Amid the glittering casinos of Macau, a gambler running from his past — and his debts — becomes fascinated by an enigmatic woman at the baccarat table.",
       "actors": [
         "Colin Farrell",
@@ -1718,7 +1716,7 @@
         "Film i Väst",
         "ReelMedia"
       ],
-      "popularity": 49.6389
+      "popularity": 46.7673
     },
     {
       "title": "Hedda",
@@ -1728,7 +1726,7 @@
         "Thriller"
       ],
       "release_date": "2025-10-22",
-      "rating": 5.174,
+      "rating": 5.2,
       "overview": "Hedda Gabler finds herself torn between the lingering ache of a past love and the quiet suffocation of her present life. Over the course of one charged night, long-repressed desires and hidden tensions erupt—pulling her and everyone around her into a spiral of manipulation, passion, and betrayal.",
       "actors": [
         "Tessa Thompson",
@@ -1786,7 +1784,7 @@
         "Thriller"
       ],
       "release_date": "2025-10-15",
-      "rating": 7.272,
+      "rating": 7.266,
       "overview": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine.",
       "actors": [
         "Ethan Hawke",
@@ -1827,7 +1825,7 @@
         "La Caja de Expresiones",
         "BHC Creativa"
       ],
-      "popularity": 89.3747
+      "popularity": 78.4844
     },
     {
       "title": "The Devil’s Trap",
@@ -1860,7 +1858,7 @@
         "Thriller"
       ],
       "release_date": "2025-09-10",
-      "rating": 6.934,
+      "rating": 6.9,
       "overview": "In a dystopian, alternate-America ruled by a totalitarian regime, 50 teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
       "actors": [
         "Cooper Hoffman",
@@ -1900,7 +1898,7 @@
       "production_companies": [
         "Mowin Pictures"
       ],
-      "popularity": 57.8204
+      "popularity": 51.6409
     },
     {
       "title": "The Strangers: Chapter 2",
@@ -1909,7 +1907,7 @@
         "Thriller"
       ],
       "release_date": "2025-09-25",
-      "rating": 5.85,
+      "rating": 5.818,
       "overview": "When The Strangers learn that one of their victims, Maya, is still alive, they return to finish what they’ve started.",
       "actors": [
         "Madelaine Petsch",
@@ -1936,7 +1934,7 @@
         "Thriller"
       ],
       "release_date": "2022-06-16",
-      "rating": 7.551,
+      "rating": 7.6,
       "overview": "Finney Blake, a shy but clever 13-year-old boy, is abducted by a sadistic killer and trapped in a soundproof basement where screaming is of little use. When a disconnected phone on the wall begins to ring, Finney discovers that he can hear the voices of the killer’s previous victims. And they are dead set on making sure that what happened to them doesn’t happen to Finney.",
       "actors": [
         "Mason Thames",
@@ -1975,7 +1973,7 @@
       "production_companies": [
         "MGI Films"
       ],
-      "popularity": 46.581
+      "popularity": 41.6859
     },
     {
       "title": "From Darkness",
@@ -2025,7 +2023,7 @@
         "LD Entertainment",
         "Door Number 3 Films"
       ],
-      "popularity": 35.8976
+      "popularity": 36.4651
     },
     {
       "title": "War of the Worlds",
@@ -2058,7 +2056,7 @@
         "Thriller"
       ],
       "release_date": "2025-10-02",
-      "rating": 6.403,
+      "rating": 6.41,
       "overview": "When a single, unattributed missile is launched at the United States, a race begins to determine who is responsible and how to respond.",
       "actors": [
         "Idris Elba",
@@ -2228,7 +2226,7 @@
         "Frantz Confiac",
         "Emmanuel Garijo"
       ],
-      "director": "Benoît Daffis",
+      "director": "Jean-Christian Tassy",
       "runtime": 87,
       "production_companies": [
         "TAT Productions",
@@ -2335,7 +2333,7 @@
         "Science Fiction"
       ],
       "release_date": "2025-06-18",
-      "rating": 6.969,
+      "rating": 6.959,
       "overview": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.",
       "actors": [
         "Yonas Kibreab",
@@ -2387,7 +2385,7 @@
         "Music"
       ],
       "release_date": "2025-06-20",
-      "rating": 8.23,
+      "rating": 8.232,
       "overview": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
       "actors": [
         "Arden Cho",
@@ -2424,7 +2422,7 @@
       "production_companies": [
         "Guerra Toons"
       ],
-      "popularity": 52.5866
+      "popularity": 47.0885
     },
     {
       "title": "Dr. Seuss's The Sneetches",
@@ -2510,7 +2508,7 @@
         "Tracey Ullman",
         "Paul Whitehouse"
       ],
-      "director": "Mike Johnson",
+      "director": "Tim Burton",
       "runtime": 77,
       "production_companies": [
         "Tim Burton Productions",
@@ -2537,7 +2535,7 @@
         "Yann Bean",
         "Aimee La Joie"
       ],
-      "director": "Sophie Li",
+      "director": "Adel Sabi",
       "runtime": 6,
       "production_companies": [
         "Gobelins",
@@ -2599,7 +2597,7 @@
         "MBS",
         "TOHO"
       ],
-      "popularity": 32.2178
+      "popularity": 25.3135
     },
     {
       "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
@@ -2609,7 +2607,7 @@
         "Science Fiction"
       ],
       "release_date": "2021-03-08",
-      "rating": 8.2,
+      "rating": 8.196,
       "overview": "In the aftermath of the Fourth Impact, stranded without their Evangelions, Shinji, Asuka and Rei find refuge in one of the rare pockets of humanity that still exist on the ruined planet Earth. There, each lives a life far different from their days as an Evangelion pilot. However, the danger to the world is far from over. A new impact is looming on the horizon—one that will prove to be the true end of Evangelion.",
       "actors": [
         "Megumi Ogata",
@@ -2716,7 +2714,7 @@
       "production_companies": [
         "khara"
       ],
-      "popularity": 29.1405
+      "popularity": 21.9931
     },
     {
       "title": "The Snail and the Whale",
@@ -2778,7 +2776,7 @@
         "Science Fiction"
       ],
       "release_date": "2025-06-05",
-      "rating": 7.878,
+      "rating": 7.9,
       "overview": "While three of the fiercest warriors in human history—a Viking raider, a ninja in feudal Japan, and a WWII pilot—are killers in their own right, they are merely prey for their new opponent: the ultimate killer of killers.",
       "actors": [
         "Lindsay LaVanchy",
@@ -2842,7 +2840,7 @@
       "production_companies": [
         "Walt Disney Animation Studios"
       ],
-      "popularity": 27.2944
+      "popularity": 20.8352
     },
     {
       "title": "Happy Feet",
@@ -3100,7 +3098,7 @@
       "production_companies": [
         "Warner Bros. Cartoons"
       ],
-      "popularity": 25.575
+      "popularity": 14.4051
     }
   ],
   "fantasy": [
@@ -3180,7 +3178,7 @@
         "Big Punch Pictures",
         "Nova Film"
       ],
-      "popularity": 78.4998
+      "popularity": 74.9018
     },
     {
       "title": "The Lord of the Rings: The Fellowship of the Ring",
@@ -3190,7 +3188,7 @@
         "Fantasy"
       ],
       "release_date": "2001-12-18",
-      "rating": 8.426,
+      "rating": 8.4,
       "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
       "actors": [
         "Elijah Wood",
@@ -3297,7 +3295,7 @@
         "Fantasy"
       ],
       "release_date": "2025-10-29",
-      "rating": 4.908,
+      "rating": 4.903,
       "overview": "To pull off a daring heist, a gang of six misfit outlaws will have to do something they've never done before: trust each other — and a washed-up Witcher.",
       "actors": [
         "Christelle Elwin",
@@ -3396,7 +3394,7 @@
         "Universal Pictures",
         "Marc Platt Productions"
       ],
-      "popularity": 29.0899
+      "popularity": 28.6901
     },
     {
       "title": "Fantastic Beasts: The Secrets of Dumbledore",
@@ -3456,7 +3454,7 @@
         "Music"
       ],
       "release_date": "2025-06-20",
-      "rating": 8.23,
+      "rating": 8.232,
       "overview": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
       "actors": [
         "Arden Cho",
@@ -3489,7 +3487,7 @@
         "Tracey Ullman",
         "Paul Whitehouse"
       ],
-      "director": "Mike Johnson",
+      "director": "Tim Burton",
       "runtime": 77,
       "production_companies": [
         "Tim Burton Productions",
@@ -3554,7 +3552,7 @@
         "MBS",
         "TOHO"
       ],
-      "popularity": 32.2178
+      "popularity": 25.3135
     },
     {
       "title": "Frozen",
@@ -3578,7 +3576,7 @@
       "production_companies": [
         "Walt Disney Animation Studios"
       ],
-      "popularity": 27.2944
+      "popularity": 20.8352
     },
     {
       "title": "The Garden of Sinners: Paradox Spiral",
@@ -3723,7 +3721,7 @@
         "Horror"
       ],
       "release_date": "2025-03-07",
-      "rating": 7.356,
+      "rating": 7.4,
       "overview": "In a fairy-tale kingdom where beauty is a brutal business, Elvira battles to compete with her incredibly beautiful stepsister, and she will go to any length to catch the prince’s eye.",
       "actors": [
         "Lea Myren",
@@ -3743,7 +3741,7 @@
         "Mediefondet Zefyr",
         "Film i Väst"
       ],
-      "popularity": 107.25
+      "popularity": 102.4866
     },
     {
       "title": "Ted 2",
@@ -3752,7 +3750,7 @@
         "Fantasy"
       ],
       "release_date": "2015-06-25",
-      "rating": 6.315,
+      "rating": 6.316,
       "overview": "Newlywed couple Ted and Tami-Lynn want to have a baby, but in order to qualify to be a parent, Ted will have to prove he's a person in a court of law.",
       "actors": [
         "Mark Wahlberg",
@@ -3795,7 +3793,7 @@
         "Choi Sing Din Ying Gung Shut",
         "Xi'an Film Studio"
       ],
-      "popularity": 27.3301
+      "popularity": 19.775
     },
     {
       "title": "Frankenstein",
@@ -3805,7 +3803,7 @@
         "Horror"
       ],
       "release_date": "2025-10-17",
-      "rating": 7.89,
+      "rating": 7.9,
       "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
       "actors": [
         "Oscar Isaac",
@@ -3815,7 +3813,7 @@
         "Felix Kammerer"
       ],
       "director": "Guillermo del Toro",
-      "runtime": 152,
+      "runtime": 150,
       "production_companies": [
         "Double Dare You",
         "Demilo Films",
@@ -3899,7 +3897,7 @@
         "Kinology",
         "Actarus Productions"
       ],
-      "popularity": 40.3006
+      "popularity": 42.9857
     },
     {
       "title": "Paradox",
@@ -3979,7 +3977,7 @@
         "Romance"
       ],
       "release_date": "2024-11-20",
-      "rating": 6.925,
+      "rating": 6.9,
       "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
       "actors": [
         "Cynthia Erivo",
@@ -3994,7 +3992,7 @@
         "Universal Pictures",
         "Marc Platt Productions"
       ],
-      "popularity": 27.382
+      "popularity": 29.287
     },
     {
       "title": "Hansel & Gretel",
@@ -4169,31 +4167,6 @@
       "popularity": 241.7255
     },
     {
-      "title": "Wicked: For Good",
-      "genres": [
-        "Adventure",
-        "Fantasy",
-        "Romance"
-      ],
-      "release_date": "2025-11-17",
-      "rating": 0.0,
-      "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
-      "actors": [
-        "Cynthia Erivo",
-        "Ariana Grande",
-        "Jonathan Bailey",
-        "Michelle Yeoh",
-        "Jeff Goldblum"
-      ],
-      "director": "Jon M. Chu",
-      "runtime": 138,
-      "production_companies": [
-        "Universal Pictures",
-        "Marc Platt Productions"
-      ],
-      "popularity": 29.0899
-    },
-    {
       "title": "Crouching Tiger, Hidden Dragon",
       "genres": [
         "Adventure",
@@ -4222,6 +4195,31 @@
       "popularity": 21.4912
     },
     {
+      "title": "Wicked: For Good",
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Romance"
+      ],
+      "release_date": "2025-11-17",
+      "rating": 0.0,
+      "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
+      "actors": [
+        "Cynthia Erivo",
+        "Ariana Grande",
+        "Jonathan Bailey",
+        "Michelle Yeoh",
+        "Jeff Goldblum"
+      ],
+      "director": "Jon M. Chu",
+      "runtime": 138,
+      "production_companies": [
+        "Universal Pictures",
+        "Marc Platt Productions"
+      ],
+      "popularity": 28.6901
+    },
+    {
       "title": "Corpse Bride",
       "genres": [
         "Animation",
@@ -4238,7 +4236,7 @@
         "Tracey Ullman",
         "Paul Whitehouse"
       ],
-      "director": "Mike Johnson",
+      "director": "Tim Burton",
       "runtime": 77,
       "production_companies": [
         "Tim Burton Productions",
@@ -4374,7 +4372,7 @@
         "Howard Braunstein Films",
         "Kabinet"
       ],
-      "popularity": 31.1511
+      "popularity": 27.6014
     },
     {
       "title": "The High Note",
@@ -4384,7 +4382,7 @@
         "Romance"
       ],
       "release_date": "2020-06-10",
-      "rating": 6.996,
+      "rating": 6.998,
       "overview": "Set in the dazzling world of the LA music scene comes the story of Grace Davis, a superstar whose talent, and ego, have reached unbelievable heights. Maggie is Grace’s overworked personal assistant who’s stuck running errands, but still aspires to her childhood dream of becoming a music producer. When Grace’s manager presents her with a choice that could alter the course of her career, Maggie and Grace come up with a plan that could change their lives forever.",
       "actors": [
         "Dakota Johnson",
@@ -4447,7 +4445,7 @@
         "Johnson Production Group",
         "ITV Global Entertainment"
       ],
-      "popularity": 27.9317
+      "popularity": 14.2354
     },
     {
       "title": "A Chinese Odyssey Part One: Pandora's Box",
@@ -4472,7 +4470,7 @@
         "Choi Sing Din Ying Gung Shut",
         "Xi'an Film Studio"
       ],
-      "popularity": 27.3301
+      "popularity": 19.775
     },
     {
       "title": "What Women Want",
@@ -4540,7 +4538,7 @@
       "director": "Emmett J. Flynn",
       "runtime": 56,
       "production_companies": [],
-      "popularity": 32.3238
+      "popularity": 17.8581
     },
     {
       "title": "Our Fault",
@@ -4648,7 +4646,7 @@
         "Thriller"
       ],
       "release_date": "2025-10-22",
-      "rating": 5.174,
+      "rating": 5.2,
       "overview": "Hedda Gabler finds herself torn between the lingering ache of a past love and the quiet suffocation of her present life. Over the course of one charged night, long-repressed desires and hidden tensions erupt—pulling her and everyone around her into a spiral of manipulation, passion, and betrayal.",
       "actors": [
         "Tessa Thompson",
@@ -4712,7 +4710,7 @@
       "production_companies": [
         "Warner Bros. Pictures"
       ],
-      "popularity": 36.3498
+      "popularity": 22.1609
     },
     {
       "title": "The Chinese Widow",
@@ -4766,7 +4764,7 @@
         "Kinology",
         "Actarus Productions"
       ],
-      "popularity": 40.3006
+      "popularity": 42.9857
     },
     {
       "title": "Wicked",
@@ -4775,7 +4773,7 @@
         "Romance"
       ],
       "release_date": "2024-11-20",
-      "rating": 6.925,
+      "rating": 6.9,
       "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
       "actors": [
         "Cynthia Erivo",
@@ -4790,7 +4788,7 @@
         "Universal Pictures",
         "Marc Platt Productions"
       ],
-      "popularity": 27.382
+      "popularity": 29.287
     },
     {
       "title": "Love, Lies",
@@ -4933,7 +4931,7 @@
         "Pokeepsie Films",
         "Amazon MGM Studios"
       ],
-      "popularity": 28.8861
+      "popularity": 28.4428
     },
     {
       "title": "Little Vera",
@@ -5067,7 +5065,7 @@
         "Romance"
       ],
       "release_date": "2025-08-27",
-      "rating": 6.812,
+      "rating": 6.813,
       "overview": "Life seems easy for picture-perfect couple Ivy and Theo: successful careers, a loving marriage, great kids. But beneath the façade of their supposed ideal life, a storm is brewing – as Theo's career nosedives while Ivy's own ambitions take off, a tinderbox of fierce competition and hidden resentment ignites.",
       "actors": [
         "Olivia Colman",
@@ -5133,7 +5131,7 @@
         "Crooked Highway",
         "Apple Studios"
       ],
-      "popularity": 25.9963
+      "popularity": 26.9575
     }
   ],
   "adventure": [
@@ -5145,7 +5143,7 @@
         "Science Fiction"
       ],
       "release_date": "2025-11-05",
-      "rating": 7.0,
+      "rating": 7.041,
       "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
       "actors": [
         "Elle Fanning",
@@ -5198,7 +5196,7 @@
         "Thriller"
       ],
       "release_date": "2002-08-09",
-      "rating": 6.0,
+      "rating": 5.965,
       "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
       "actors": [
         "Vin Diesel",
@@ -5222,7 +5220,7 @@
         "Thriller"
       ],
       "release_date": "2025-09-04",
-      "rating": 6.664,
+      "rating": 6.596,
       "overview": "In 1993, Maureen’s six-year-old daughter Amina is snuck out of the country by her ex-husband, Karim. After years of unsuccessful attempts to find her, Maureen intersects with a professional retriever of internationally abducted children who promises to help her find Amina in exchange for her collaboration.",
       "actors": [
         "Kate Beckinsale",
@@ -5250,7 +5248,7 @@
         "Science Fiction"
       ],
       "release_date": "2025-07-23",
-      "rating": 7.098,
+      "rating": 7.096,
       "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
       "actors": [
         "Pedro Pascal",
@@ -5326,7 +5324,7 @@
         "Science Fiction"
       ],
       "release_date": "2025-07-01",
-      "rating": 6.377,
+      "rating": 6.379,
       "overview": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
       "actors": [
         "Scarlett Johansson",
@@ -5351,7 +5349,7 @@
         "Thriller"
       ],
       "release_date": "2025-05-17",
-      "rating": 7.268,
+      "rating": 7.269,
       "overview": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
       "actors": [
         "Tom Cruise",
@@ -5377,7 +5375,7 @@
         "Science Fiction"
       ],
       "release_date": "2025-10-08",
-      "rating": 6.357,
+      "rating": 6.364,
       "overview": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings.",
       "actors": [
         "Jared Leto",
@@ -5426,7 +5424,7 @@
         "Fantasy"
       ],
       "release_date": "2001-12-18",
-      "rating": 8.426,
+      "rating": 8.4,
       "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
       "actors": [
         "Elijah Wood",
@@ -5533,7 +5531,7 @@
         "Science Fiction"
       ],
       "release_date": "2015-04-22",
-      "rating": 7.271,
+      "rating": 7.3,
       "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
       "actors": [
         "Robert Downey Jr.",
@@ -5574,35 +5572,6 @@
       "popularity": 39.2669
     },
     {
-      "title": "Predator",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ],
-      "release_date": "1987-06-12",
-      "rating": 7.54,
-      "overview": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
-      "actors": [
-        "Arnold Schwarzenegger",
-        "Carl Weathers",
-        "Kevin Peter Hall",
-        "Elpidia Carrillo",
-        "Bill Duke"
-      ],
-      "director": "John McTiernan",
-      "runtime": 107,
-      "production_companies": [
-        "20th Century Fox",
-        "Lawrence Gordon Productions",
-        "Silver Pictures",
-        "Davis Entertainment",
-        "Amercent Films",
-        "American Entertainment Partners L.P."
-      ],
-      "popularity": 33.6303
-    },
-    {
       "title": "Coco",
       "genres": [
         "Adventure",
@@ -5635,7 +5604,7 @@
         "Fantasy"
       ],
       "release_date": "2025-10-29",
-      "rating": 4.908,
+      "rating": 4.903,
       "overview": "To pull off a daring heist, a gang of six misfit outlaws will have to do something they've never done before: trust each other — and a washed-up Witcher.",
       "actors": [
         "Christelle Elwin",
@@ -5689,7 +5658,7 @@
         "Science Fiction"
       ],
       "release_date": "2025-05-17",
-      "rating": 7.245,
+      "rating": 7.244,
       "overview": "The wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family.",
       "actors": [
         "Maia Kealoha",
@@ -5724,7 +5693,7 @@
         "Frantz Confiac",
         "Emmanuel Garijo"
       ],
-      "director": "Benoît Daffis",
+      "director": "Jean-Christian Tassy",
       "runtime": 87,
       "production_companies": [
         "TAT Productions",
@@ -5818,6 +5787,34 @@
         "DreamWorks Animation"
       ],
       "popularity": 36.3963
+    },
+    {
+      "title": "Predator",
+      "genres": [
+        "Adventure",
+        "Science Fiction"
+      ],
+      "release_date": "1987-06-12",
+      "rating": 7.54,
+      "overview": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+      "actors": [
+        "Arnold Schwarzenegger",
+        "Carl Weathers",
+        "Kevin Peter Hall",
+        "Elpidia Carrillo",
+        "Bill Duke"
+      ],
+      "director": "John McTiernan",
+      "runtime": 107,
+      "production_companies": [
+        "20th Century Fox",
+        "Lawrence Gordon Productions",
+        "Silver Pictures",
+        "Davis Entertainment",
+        "Amercent Films",
+        "American Entertainment Partners L.P."
+      ],
+      "popularity": 45.66
     },
     {
       "title": "Man of Steel",
@@ -5948,31 +5945,6 @@
       "popularity": 22.2453
     },
     {
-      "title": "Wicked: For Good",
-      "genres": [
-        "Adventure",
-        "Fantasy",
-        "Romance"
-      ],
-      "release_date": "2025-11-17",
-      "rating": 0.0,
-      "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
-      "actors": [
-        "Cynthia Erivo",
-        "Ariana Grande",
-        "Jonathan Bailey",
-        "Michelle Yeoh",
-        "Jeff Goldblum"
-      ],
-      "director": "Jon M. Chu",
-      "runtime": 138,
-      "production_companies": [
-        "Universal Pictures",
-        "Marc Platt Productions"
-      ],
-      "popularity": 29.0899
-    },
-    {
       "title": "Crouching Tiger, Hidden Dragon",
       "genres": [
         "Adventure",
@@ -6024,6 +5996,31 @@
       "popularity": 19.7496
     },
     {
+      "title": "Wicked: For Good",
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Romance"
+      ],
+      "release_date": "2025-11-17",
+      "rating": 0.0,
+      "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
+      "actors": [
+        "Cynthia Erivo",
+        "Ariana Grande",
+        "Jonathan Bailey",
+        "Michelle Yeoh",
+        "Jeff Goldblum"
+      ],
+      "director": "Jon M. Chu",
+      "runtime": 138,
+      "production_companies": [
+        "Universal Pictures",
+        "Marc Platt Productions"
+      ],
+      "popularity": 28.6901
+    },
+    {
       "title": "Dr. No",
       "genres": [
         "Adventure"
@@ -6044,7 +6041,7 @@
         "EON Productions",
         "United Artists"
       ],
-      "popularity": 28.628
+      "popularity": 20.7891
     },
     {
       "title": "Fantastic Beasts: The Secrets of Dumbledore",
@@ -6080,7 +6077,7 @@
         "Science Fiction"
       ],
       "release_date": "2025-06-18",
-      "rating": 6.969,
+      "rating": 6.959,
       "overview": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.",
       "actors": [
         "Yonas Kibreab",
@@ -6183,7 +6180,7 @@
         "Science Fiction"
       ],
       "release_date": "2025-11-05",
-      "rating": 7.0,
+      "rating": 7.041,
       "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
       "actors": [
         "Elle Fanning",
@@ -6238,7 +6235,7 @@
         "Science Fiction"
       ],
       "release_date": "2025-07-23",
-      "rating": 7.098,
+      "rating": 7.096,
       "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
       "actors": [
         "Pedro Pascal",
@@ -6315,7 +6312,7 @@
         "Science Fiction"
       ],
       "release_date": "2025-07-01",
-      "rating": 6.377,
+      "rating": 6.379,
       "overview": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
       "actors": [
         "Scarlett Johansson",
@@ -6340,7 +6337,7 @@
         "Science Fiction"
       ],
       "release_date": "2025-10-08",
-      "rating": 6.357,
+      "rating": 6.364,
       "overview": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings.",
       "actors": [
         "Jared Leto",
@@ -6365,7 +6362,7 @@
         "Science Fiction"
       ],
       "release_date": "2015-04-22",
-      "rating": 7.271,
+      "rating": 7.3,
       "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
       "actors": [
         "Robert Downey Jr.",
@@ -6406,35 +6403,6 @@
       "popularity": 39.2669
     },
     {
-      "title": "Predator",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ],
-      "release_date": "1987-06-12",
-      "rating": 7.54,
-      "overview": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
-      "actors": [
-        "Arnold Schwarzenegger",
-        "Carl Weathers",
-        "Kevin Peter Hall",
-        "Elpidia Carrillo",
-        "Bill Duke"
-      ],
-      "director": "John McTiernan",
-      "runtime": 107,
-      "production_companies": [
-        "20th Century Fox",
-        "Lawrence Gordon Productions",
-        "Silver Pictures",
-        "Davis Entertainment",
-        "Amercent Films",
-        "American Entertainment Partners L.P."
-      ],
-      "popularity": 33.6303
-    },
-    {
       "title": "Lilo & Stitch",
       "genres": [
         "Adventure",
@@ -6443,7 +6411,7 @@
         "Science Fiction"
       ],
       "release_date": "2025-05-17",
-      "rating": 7.245,
+      "rating": 7.244,
       "overview": "The wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family.",
       "actors": [
         "Maia Kealoha",
@@ -6487,6 +6455,34 @@
       "popularity": 35.86
     },
     {
+      "title": "Predator",
+      "genres": [
+        "Adventure",
+        "Science Fiction"
+      ],
+      "release_date": "1987-06-12",
+      "rating": 7.54,
+      "overview": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+      "actors": [
+        "Arnold Schwarzenegger",
+        "Carl Weathers",
+        "Kevin Peter Hall",
+        "Elpidia Carrillo",
+        "Bill Duke"
+      ],
+      "director": "John McTiernan",
+      "runtime": 107,
+      "production_companies": [
+        "20th Century Fox",
+        "Lawrence Gordon Productions",
+        "Silver Pictures",
+        "Davis Entertainment",
+        "Amercent Films",
+        "American Entertainment Partners L.P."
+      ],
+      "popularity": 45.66
+    },
+    {
       "title": "Man of Steel",
       "genres": [
         "Adventure",
@@ -6522,7 +6518,7 @@
         "Science Fiction"
       ],
       "release_date": "2025-06-18",
-      "rating": 6.969,
+      "rating": 6.959,
       "overview": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.",
       "actors": [
         "Yonas Kibreab",
@@ -6600,7 +6596,7 @@
         "Science Fiction"
       ],
       "release_date": "2021-03-08",
-      "rating": 8.2,
+      "rating": 8.196,
       "overview": "In the aftermath of the Fourth Impact, stranded without their Evangelions, Shinji, Asuka and Rei find refuge in one of the rare pockets of humanity that still exist on the ruined planet Earth. There, each lives a life far different from their days as an Evangelion pilot. However, the danger to the world is far from over. A new impact is looming on the horizon—one that will prove to be the true end of Evangelion.",
       "actors": [
         "Megumi Ogata",
@@ -6637,7 +6633,7 @@
       "production_companies": [
         "khara"
       ],
-      "popularity": 29.1405
+      "popularity": 21.9931
     },
     {
       "title": "Predator: Killer of Killers",
@@ -6646,7 +6642,7 @@
         "Science Fiction"
       ],
       "release_date": "2025-06-05",
-      "rating": 7.878,
+      "rating": 7.9,
       "overview": "While three of the fiercest warriors in human history—a Viking raider, a ninja in feudal Japan, and a WWII pilot—are killers in their own right, they are merely prey for their new opponent: the ultimate killer of killers.",
       "actors": [
         "Lindsay LaVanchy",
@@ -6715,7 +6711,7 @@
         "Science Fiction"
       ],
       "release_date": "2025-10-23",
-      "rating": 7.746,
+      "rating": 7.73,
       "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
       "actors": [
         "Emma Stone",
@@ -6734,7 +6730,7 @@
         "Fruit Tree",
         "CJ ENM"
       ],
-      "popularity": 46.446
+      "popularity": 45.7161
     },
     {
       "title": "The Rocketeer",
@@ -6770,7 +6766,7 @@
         "Thriller"
       ],
       "release_date": "2025-09-10",
-      "rating": 6.934,
+      "rating": 6.9,
       "overview": "In a dystopian, alternate-America ruled by a totalitarian regime, 50 teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
       "actors": [
         "Cooper Hoffman",
@@ -6812,7 +6808,7 @@
         "Crooked Highway",
         "Apple Studios"
       ],
-      "popularity": 25.9963
+      "popularity": 26.9575
     },
     {
       "title": "War of the Worlds",
@@ -6931,7 +6927,7 @@
       "production_companies": [
         "Mini Studios"
       ],
-      "popularity": 25.5382
+      "popularity": 17.8591
     },
     {
       "title": "Deadpool & Wolverine",
@@ -7055,7 +7051,7 @@
         "NeoReel",
         "Lionsgate"
       ],
-      "popularity": 24.9787
+      "popularity": 16.9467
     },
     {
       "title": "Metal Skin Panic MADOX-01",
@@ -7100,7 +7096,7 @@
         "Malayerba Producciones",
         "Mil Nubes-Cine"
       ],
-      "popularity": 24.6785
+      "popularity": 13.2064
     },
     {
       "title": "Dead Shadows",
@@ -7204,7 +7200,7 @@
         "Thriller"
       ],
       "release_date": "2002-08-09",
-      "rating": 6.0,
+      "rating": 5.965,
       "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
       "actors": [
         "Vin Diesel",
@@ -7242,7 +7238,7 @@
       "production_companies": [
         "2 Hungry Crocodiles"
       ],
-      "popularity": 90.2367
+      "popularity": 84.0499
     },
     {
       "title": "Marco",
@@ -7376,6 +7372,32 @@
       "popularity": 33.2459
     },
     {
+      "title": "The Naked Gun",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "release_date": "2025-07-30",
+      "rating": 6.544,
+      "overview": "Only one man has the particular set of skills... to lead Police Squad and save the world: Lt. Frank Drebin Jr.",
+      "actors": [
+        "Liam Neeson",
+        "Pamela Anderson",
+        "Paul Walter Hauser",
+        "Danny Huston",
+        "CCH Pounder"
+      ],
+      "director": "Akiva Schaffer",
+      "runtime": 86,
+      "production_companies": [
+        "Fuzzy Door Productions",
+        "Paramount Pictures",
+        "Domain Entertainment"
+      ],
+      "popularity": 35.2859
+    },
+    {
       "title": "The Bad Guys 2",
       "genres": [
         "Adventure",
@@ -7400,31 +7422,6 @@
         "DreamWorks Animation"
       ],
       "popularity": 36.3963
-    },
-    {
-      "title": "The Naked Gun",
-      "genres": [
-        "Comedy",
-        "Crime"
-      ],
-      "release_date": "2025-07-30",
-      "rating": 6.545,
-      "overview": "Only one man has the particular set of skills... to lead Police Squad and save the world: Lt. Frank Drebin Jr.",
-      "actors": [
-        "Liam Neeson",
-        "Pamela Anderson",
-        "Paul Walter Hauser",
-        "Danny Huston",
-        "CCH Pounder"
-      ],
-      "director": "Akiva Schaffer",
-      "runtime": 86,
-      "production_companies": [
-        "Fuzzy Door Productions",
-        "Paramount Pictures",
-        "Domain Entertainment"
-      ],
-      "popularity": 35.2859
     },
     {
       "title": "Silver Bears",
@@ -7473,7 +7470,7 @@
         "Traverse Terror",
         "Epic Pictures"
       ],
-      "popularity": 75.1512
+      "popularity": 67.8442
     },
     {
       "title": "The Mannequin",
@@ -7506,7 +7503,7 @@
         "Crime"
       ],
       "release_date": "2025-09-30",
-      "rating": 6.639,
+      "rating": 6.638,
       "overview": "Expert thief Parker gets a shot at a major heist, but to pull it off he and his team must outsmart a South American dictator, the New York mob, and the world's richest man.",
       "actors": [
         "Mark Wahlberg",
@@ -7530,7 +7527,7 @@
         "Science Fiction"
       ],
       "release_date": "2025-10-23",
-      "rating": 7.746,
+      "rating": 7.73,
       "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
       "actors": [
         "Emma Stone",
@@ -7549,7 +7546,7 @@
         "Fruit Tree",
         "CJ ENM"
       ],
-      "popularity": 46.446
+      "popularity": 45.7161
     },
     {
       "title": "The Drop",
@@ -7581,11 +7578,12 @@
       "title": "Ballad of a Small Player",
       "genres": [
         "Crime",
+        "Drama",
         "Mystery",
         "Thriller"
       ],
       "release_date": "2025-10-15",
-      "rating": 5.93,
+      "rating": 5.9,
       "overview": "Amid the glittering casinos of Macau, a gambler running from his past — and his debts — becomes fascinated by an enigmatic woman at the baccarat table.",
       "actors": [
         "Colin Farrell",
@@ -7672,7 +7670,7 @@
       "director": "Emmett J. Flynn",
       "runtime": 56,
       "production_companies": [],
-      "popularity": 32.3238
+      "popularity": 17.8581
     },
     {
       "title": "The Woman in Cabin 10",
@@ -7827,30 +7825,6 @@
       "popularity": 20.4315
     },
     {
-      "title": "The Night Heaven Fell",
-      "genres": [
-        "Crime"
-      ],
-      "release_date": "1958-04-05",
-      "rating": 4.765,
-      "overview": "Ursula finishes her studies and returns to her aunt Florentine and uncle, Ribera who is the count. She falls in love with Lambert, the killer of her uncle.",
-      "actors": [
-        "Brigitte Bardot",
-        "Alida Valli",
-        "Stephen Boyd",
-        "José Nieto",
-        "Fernando Rey"
-      ],
-      "director": "Roger Vadim",
-      "runtime": 91,
-      "production_companies": [
-        "Compagnia Edizioni Internazionali Artistiche Distribuzione (CEIAD)",
-        "Iéna Productions",
-        "Union Cinématographique Lyonnaise (UCIL)"
-      ],
-      "popularity": 17.8296
-    },
-    {
       "title": "In the Shadows",
       "genres": [
         "Crime"
@@ -7894,7 +7868,7 @@
         "Frontier Pictures",
         "XYZ Films"
       ],
-      "popularity": 27.3362
+      "popularity": 18.6853
     },
     {
       "title": "Red Corner",
@@ -7970,7 +7944,7 @@
         "Columbia Pictures",
         "B22"
       ],
-      "popularity": 27.0694
+      "popularity": 20.4429
     },
     {
       "title": "The Godfather",
@@ -7993,7 +7967,7 @@
         "Paramount Pictures",
         "Alfran Productions"
       ],
-      "popularity": 27.0655
+      "popularity": 26.3705
     },
     {
       "title": "Stray Dog",
@@ -8055,7 +8029,7 @@
         "Youku",
         "TMeng Pictures"
       ],
-      "popularity": 26.6533
+      "popularity": 28.0593
     },
     {
       "title": "Female Prisoner Scorpion: Beast Stable",
@@ -8077,7 +8051,7 @@
       "production_companies": [
         "Toei Company"
       ],
-      "popularity": 26.47
+      "popularity": 19.1696
     },
     {
       "title": "Joe",
@@ -8099,7 +8073,7 @@
       "production_companies": [
         "The Cannon Group"
       ],
-      "popularity": 26.3716
+      "popularity": 14.6151
     },
     {
       "title": "Female Prisoner Scorpion: #701",
@@ -8145,6 +8119,29 @@
         "Shochiku-Fuji Company"
       ],
       "popularity": 18.9487
+    },
+    {
+      "title": "Pork Pie",
+      "genres": [
+        "Crime"
+      ],
+      "release_date": "2017-02-02",
+      "rating": 6.6,
+      "overview": "A trio of accidental outlaws travel the length of New Zealand, protesting conformity and chasing lost love, with a posse of cops and a media frenzy in pursuit.",
+      "actors": [
+        "Dean O'Gorman",
+        "James Rolleston",
+        "Ashleigh Cummings",
+        "Antonia Prebble",
+        "Matt Whelan"
+      ],
+      "director": "Matt Murphy",
+      "runtime": 105,
+      "production_companies": [
+        "Southern Light Films",
+        "Four Knights Film"
+      ],
+      "popularity": 14.4699
     }
   ],
   "comedy": [
@@ -8182,7 +8179,7 @@
         "Comedy"
       ],
       "release_date": "2025-09-12",
-      "rating": 7.2,
+      "rating": 7.267,
       "overview": "A burned-out paramedic tries to survive his last 24 hours on the job while training a new recruit.",
       "actors": [
         "Rainn Wilson",
@@ -8228,6 +8225,32 @@
       "popularity": 84.2194
     },
     {
+      "title": "The Naked Gun",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "release_date": "2025-07-30",
+      "rating": 6.544,
+      "overview": "Only one man has the particular set of skills... to lead Police Squad and save the world: Lt. Frank Drebin Jr.",
+      "actors": [
+        "Liam Neeson",
+        "Pamela Anderson",
+        "Paul Walter Hauser",
+        "Danny Huston",
+        "CCH Pounder"
+      ],
+      "director": "Akiva Schaffer",
+      "runtime": 86,
+      "production_companies": [
+        "Fuzzy Door Productions",
+        "Paramount Pictures",
+        "Domain Entertainment"
+      ],
+      "popularity": 35.2859
+    },
+    {
       "title": "Zootopia 2",
       "genres": [
         "Adventure",
@@ -8262,7 +8285,7 @@
         "Science Fiction"
       ],
       "release_date": "2025-05-17",
-      "rating": 7.245,
+      "rating": 7.244,
       "overview": "The wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family.",
       "actors": [
         "Maia Kealoha",
@@ -8297,7 +8320,7 @@
         "Frantz Confiac",
         "Emmanuel Garijo"
       ],
-      "director": "Benoît Daffis",
+      "director": "Jean-Christian Tassy",
       "runtime": 87,
       "production_companies": [
         "TAT Productions",
@@ -8379,7 +8402,7 @@
         "Science Fiction"
       ],
       "release_date": "2025-06-18",
-      "rating": 6.969,
+      "rating": 6.959,
       "overview": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.",
       "actors": [
         "Yonas Kibreab",
@@ -8456,7 +8479,7 @@
         "Music"
       ],
       "release_date": "2025-06-20",
-      "rating": 8.23,
+      "rating": 8.232,
       "overview": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
       "actors": [
         "Arden Cho",
@@ -8508,7 +8531,7 @@
         "Horror"
       ],
       "release_date": "2025-03-07",
-      "rating": 7.356,
+      "rating": 7.4,
       "overview": "In a fairy-tale kingdom where beauty is a brutal business, Elvira battles to compete with her incredibly beautiful stepsister, and she will go to any length to catch the prince’s eye.",
       "actors": [
         "Lea Myren",
@@ -8528,7 +8551,7 @@
         "Mediefondet Zefyr",
         "Film i Väst"
       ],
-      "popularity": 107.25
+      "popularity": 102.4866
     },
     {
       "title": "Laila",
@@ -8560,7 +8583,7 @@
         "Fantasy"
       ],
       "release_date": "2015-06-25",
-      "rating": 6.315,
+      "rating": 6.316,
       "overview": "Newlywed couple Ted and Tami-Lynn want to have a baby, but in order to qualify to be a parent, Ted will have to prove he's a person in a court of law.",
       "actors": [
         "Mark Wahlberg",
@@ -8766,7 +8789,7 @@
         "Rachel Melvin",
         "Kathleen Turner"
       ],
-      "director": "Peter Farrelly",
+      "director": "Bobby Farrelly",
       "runtime": 110,
       "production_companies": [
         "New Line Cinema",
@@ -8774,32 +8797,32 @@
         "Conundrum Entertainment",
         "Red Granite Pictures"
       ],
-      "popularity": 35.5238
+      "popularity": 24.8351
     },
     {
-      "title": "The Naked Gun",
+      "title": "Little Boxes",
       "genres": [
         "Comedy",
-        "Crime"
+        "Drama"
       ],
-      "release_date": "2025-07-30",
-      "rating": 6.545,
-      "overview": "Only one man has the particular set of skills... to lead Police Squad and save the world: Lt. Frank Drebin Jr.",
+      "release_date": "2017-04-14",
+      "rating": 6.1,
+      "overview": "It's the summer before 6th grade, and Clark is the new-in-town biracial kid in a sea of white. Discovering that to be cool he needs to act 'more black,' he fumbles to meet expectations, while his urban intellectual parents Mack and Gina also strive to adjust to small-town living. Equipped for the many inherent challenges of New York, the tight-knit family are ill prepared for the drastically different set of obstacles that their new community presents, and soon find themselves struggling to understand themselves and each other in this new suburban context.",
       "actors": [
-        "Liam Neeson",
-        "Pamela Anderson",
-        "Paul Walter Hauser",
-        "Danny Huston",
-        "CCH Pounder"
+        "Melanie Lynskey",
+        "Nelsan Ellis",
+        "Armani Jackson",
+        "Oona Laurence",
+        "Janeane Garofalo"
       ],
-      "director": "Akiva Schaffer",
-      "runtime": 86,
+      "director": "Rob Meyer",
+      "runtime": 84,
       "production_companies": [
-        "Fuzzy Door Productions",
-        "Paramount Pictures",
-        "Domain Entertainment"
+        "Related Pictures",
+        "Kid Noir Productions",
+        "Mighty Engine"
       ],
-      "popularity": 35.2859
+      "popularity": 21.3607
     },
     {
       "title": "Silver Bears",
@@ -8872,7 +8895,7 @@
         "Howard Braunstein Films",
         "Kabinet"
       ],
-      "popularity": 31.1511
+      "popularity": 27.6014
     },
     {
       "title": "The High Note",
@@ -8882,7 +8905,7 @@
         "Romance"
       ],
       "release_date": "2020-06-10",
-      "rating": 6.996,
+      "rating": 6.998,
       "overview": "Set in the dazzling world of the LA music scene comes the story of Grace Davis, a superstar whose talent, and ego, have reached unbelievable heights. Maggie is Grace’s overworked personal assistant who’s stuck running errands, but still aspires to her childhood dream of becoming a music producer. When Grace’s manager presents her with a choice that could alter the course of her career, Maggie and Grace come up with a plan that could change their lives forever.",
       "actors": [
         "Dakota Johnson",
@@ -8930,7 +8953,7 @@
         "Comedy"
       ],
       "release_date": "2025-09-19",
-      "rating": 6.391,
+      "rating": 6.4,
       "overview": "When a woman is admitted by her daughters to a psychiatric clinic for her carefree ways, an expert must judge if she is ill or simply wants to enjoy life.",
       "actors": [
         "Marilú Marini",
@@ -8944,7 +8967,7 @@
       "production_companies": [
         "La Unión de los Ríos"
       ],
-      "popularity": 28.7276
+      "popularity": 29.4189
     },
     {
       "title": "Judy",
@@ -9012,7 +9035,7 @@
         "Johnson Production Group",
         "ITV Global Entertainment"
       ],
-      "popularity": 27.9317
+      "popularity": 14.2354
     },
     {
       "title": "Assisted Fishing",
@@ -9060,7 +9083,7 @@
         "Choi Sing Din Ying Gung Shut",
         "Xi'an Film Studio"
       ],
-      "popularity": 27.3301
+      "popularity": 19.775
     },
     {
       "title": "What Women Want",
@@ -9185,7 +9208,7 @@
         "Big Punch Pictures",
         "Nova Film"
       ],
-      "popularity": 78.4998
+      "popularity": 74.9018
     },
     {
       "title": "Primitive War",
@@ -9195,7 +9218,7 @@
         "War"
       ],
       "release_date": "2025-08-21",
-      "rating": 6.899,
+      "rating": 6.9,
       "overview": "During the Vietnam War, a recon unit ventures to an isolated jungle valley to uncover the fate of a missing platoon. They soon find themselves in a fight for their lives against an unexpected enemy — prehistoric dinosaurs.",
       "actors": [
         "Jeremy Piven",
@@ -9209,7 +9232,7 @@
       "production_companies": [
         "Sparke Films"
       ],
-      "popularity": 70.812
+      "popularity": 70.3661
     },
     {
       "title": "Armed Response",
@@ -9248,7 +9271,7 @@
         "Horror"
       ],
       "release_date": "2025-03-07",
-      "rating": 7.356,
+      "rating": 7.4,
       "overview": "In a fairy-tale kingdom where beauty is a brutal business, Elvira battles to compete with her incredibly beautiful stepsister, and she will go to any length to catch the prince’s eye.",
       "actors": [
         "Lea Myren",
@@ -9268,7 +9291,7 @@
         "Mediefondet Zefyr",
         "Film i Väst"
       ],
-      "popularity": 107.25
+      "popularity": 102.4866
     },
     {
       "title": "Ko Ga Loak Village",
@@ -9318,7 +9341,7 @@
         "Traverse Terror",
         "Epic Pictures"
       ],
-      "popularity": 75.1512
+      "popularity": 67.8442
     },
     {
       "title": "The Mannequin",
@@ -9378,7 +9401,7 @@
         "Horror"
       ],
       "release_date": "2025-10-17",
-      "rating": 7.89,
+      "rating": 7.9,
       "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
       "actors": [
         "Oscar Isaac",
@@ -9388,7 +9411,7 @@
         "Felix Kammerer"
       ],
       "director": "Guillermo del Toro",
-      "runtime": 152,
+      "runtime": 150,
       "production_companies": [
         "Double Dare You",
         "Demilo Films",
@@ -9470,7 +9493,7 @@
         "Kinology",
         "Actarus Productions"
       ],
-      "popularity": 40.3006
+      "popularity": 42.9857
     },
     {
       "title": "Nothing Sacred",
@@ -9503,7 +9526,7 @@
         "Thriller"
       ],
       "release_date": "2025-10-15",
-      "rating": 7.272,
+      "rating": 7.266,
       "overview": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine.",
       "actors": [
         "Ethan Hawke",
@@ -9550,7 +9573,7 @@
         "Horror"
       ],
       "release_date": "2025-09-03",
-      "rating": 6.999,
+      "rating": 7.004,
       "overview": "Paranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront.",
       "actors": [
         "Vera Farmiga",
@@ -9591,7 +9614,7 @@
         "La Caja de Expresiones",
         "BHC Creativa"
       ],
-      "popularity": 89.3747
+      "popularity": 78.4844
     },
     {
       "title": "Weapons",
@@ -9600,7 +9623,7 @@
         "Mystery"
       ],
       "release_date": "2025-08-04",
-      "rating": 7.3,
+      "rating": 7.338,
       "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
       "actors": [
         "Julia Garner",
@@ -9674,7 +9697,7 @@
         "Thriller"
       ],
       "release_date": "2025-09-10",
-      "rating": 6.934,
+      "rating": 6.9,
       "overview": "In a dystopian, alternate-America ruled by a totalitarian regime, 50 teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
       "actors": [
         "Cooper Hoffman",
@@ -9714,7 +9737,7 @@
       "production_companies": [
         "Mowin Pictures"
       ],
-      "popularity": 57.8204
+      "popularity": 51.6409
     },
     {
       "title": "The Strangers: Chapter 2",
@@ -9723,7 +9746,7 @@
         "Thriller"
       ],
       "release_date": "2025-09-25",
-      "rating": 5.85,
+      "rating": 5.818,
       "overview": "When The Strangers learn that one of their victims, Maya, is still alive, they return to finish what they’ve started.",
       "actors": [
         "Madelaine Petsch",
@@ -9750,7 +9773,7 @@
         "Thriller"
       ],
       "release_date": "2022-06-16",
-      "rating": 7.551,
+      "rating": 7.6,
       "overview": "Finney Blake, a shy but clever 13-year-old boy, is abducted by a sadistic killer and trapped in a soundproof basement where screaming is of little use. When a disconnected phone on the wall begins to ring, Finney discovers that he can hear the voices of the killer’s previous victims. And they are dead set on making sure that what happened to them doesn’t happen to Finney.",
       "actors": [
         "Mason Thames",
@@ -9789,7 +9812,7 @@
       "production_companies": [
         "MGI Films"
       ],
-      "popularity": 46.581
+      "popularity": 41.6859
     },
     {
       "title": "From Darkness",
@@ -9839,7 +9862,7 @@
         "LD Entertainment",
         "Door Number 3 Films"
       ],
-      "popularity": 35.8976
+      "popularity": 36.4651
     },
     {
       "title": "Hidden",
@@ -9871,7 +9894,7 @@
         "Horror"
       ],
       "release_date": "2019-09-04",
-      "rating": 6.84,
+      "rating": 6.839,
       "overview": "27 years after overcoming the malevolent supernatural entity Pennywise, the former members of the Losers' Club, who have grown up and moved away from Derry, are brought back together by a devastating phone call.",
       "actors": [
         "Bill Skarsgård",
@@ -9906,7 +9929,7 @@
         "Richard Harmon",
         "Owen Patrick Joyner"
       ],
-      "director": "Adam B. Stein",
+      "director": "Zach Lipovsky",
       "runtime": 110,
       "production_companies": [
         "New Line Cinema",
@@ -10105,7 +10128,7 @@
         "Creators Company Connection",
         "Omega Project"
       ],
-      "popularity": 28.4627
+      "popularity": 21.0739
     },
     {
       "title": "The Skin I Live In",
@@ -10114,7 +10137,7 @@
         "Mystery"
       ],
       "release_date": "2011-08-17",
-      "rating": 7.5,
+      "rating": 7.493,
       "overview": "A brilliant plastic surgeon creates a synthetic skin that withstands any kind of damage. His guinea pig: a mysterious and volatile woman who holds the key to his obsession.",
       "actors": [
         "Antonio Banderas",
@@ -10220,7 +10243,7 @@
         "Fantasy"
       ],
       "release_date": "2025-10-29",
-      "rating": 4.908,
+      "rating": 4.903,
       "overview": "To pull off a daring heist, a gang of six misfit outlaws will have to do something they've never done before: trust each other — and a washed-up Witcher.",
       "actors": [
         "Christelle Elwin",
@@ -10302,7 +10325,7 @@
         "Science Fiction"
       ],
       "release_date": "2021-03-08",
-      "rating": 8.2,
+      "rating": 8.196,
       "overview": "In the aftermath of the Fourth Impact, stranded without their Evangelions, Shinji, Asuka and Rei find refuge in one of the rare pockets of humanity that still exist on the ruined planet Earth. There, each lives a life far different from their days as an Evangelion pilot. However, the danger to the world is far from over. A new impact is looming on the horizon—one that will prove to be the true end of Evangelion.",
       "actors": [
         "Megumi Ogata",
@@ -10327,7 +10350,7 @@
         "Horror"
       ],
       "release_date": "2025-03-07",
-      "rating": 7.356,
+      "rating": 7.4,
       "overview": "In a fairy-tale kingdom where beauty is a brutal business, Elvira battles to compete with her incredibly beautiful stepsister, and she will go to any length to catch the prince’s eye.",
       "actors": [
         "Lea Myren",
@@ -10347,7 +10370,7 @@
         "Mediefondet Zefyr",
         "Film i Väst"
       ],
-      "popularity": 107.25
+      "popularity": 102.4866
     },
     {
       "title": "Forrest Gump",
@@ -10399,6 +10422,31 @@
       "popularity": 40.8458
     },
     {
+      "title": "Little Boxes",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "release_date": "2017-04-14",
+      "rating": 6.1,
+      "overview": "It's the summer before 6th grade, and Clark is the new-in-town biracial kid in a sea of white. Discovering that to be cool he needs to act 'more black,' he fumbles to meet expectations, while his urban intellectual parents Mack and Gina also strive to adjust to small-town living. Equipped for the many inherent challenges of New York, the tight-knit family are ill prepared for the drastically different set of obstacles that their new community presents, and soon find themselves struggling to understand themselves and each other in this new suburban context.",
+      "actors": [
+        "Melanie Lynskey",
+        "Nelsan Ellis",
+        "Armani Jackson",
+        "Oona Laurence",
+        "Janeane Garofalo"
+      ],
+      "director": "Rob Meyer",
+      "runtime": 84,
+      "production_companies": [
+        "Related Pictures",
+        "Kid Noir Productions",
+        "Mighty Engine"
+      ],
+      "popularity": 21.3607
+    },
+    {
       "title": "Red Rocket",
       "genres": [
         "Comedy",
@@ -10447,6 +10495,33 @@
         "Ingenious Media"
       ],
       "popularity": 29.0056
+    },
+    {
+      "title": "Ballad of a Small Player",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "release_date": "2025-10-15",
+      "rating": 5.9,
+      "overview": "Amid the glittering casinos of Macau, a gambler running from his past — and his debts — becomes fascinated by an enigmatic woman at the baccarat table.",
+      "actors": [
+        "Colin Farrell",
+        "Fala Chen",
+        "Tilda Swinton",
+        "Deanie Ip",
+        "Alex Jennings"
+      ],
+      "director": "Edward Berger",
+      "runtime": 102,
+      "production_companies": [
+        "Good Chaos",
+        "Stigma Films",
+        "Nine Hours"
+      ],
+      "popularity": 37.0238
     },
     {
       "title": "Female Prisoner Scorpion: Jailhouse 41",
@@ -10507,7 +10582,7 @@
         "Horror"
       ],
       "release_date": "2025-10-17",
-      "rating": 7.89,
+      "rating": 7.9,
       "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
       "actors": [
         "Oscar Isaac",
@@ -10517,7 +10592,7 @@
         "Felix Kammerer"
       ],
       "director": "Guillermo del Toro",
-      "runtime": 152,
+      "runtime": 150,
       "production_companies": [
         "Double Dare You",
         "Demilo Films",
@@ -10601,7 +10676,7 @@
         "History"
       ],
       "release_date": "2025-10-01",
-      "rating": 6.471,
+      "rating": 6.493,
       "overview": "In the late 1990s, up-and-coming mixed martial artist Mark Kerr aspires to become the greatest fighter in the world. However, he must also battle his opiod dependence and a volatile relationship with his girlfriend Dawn.",
       "actors": [
         "Dwayne Johnson",
@@ -10618,7 +10693,7 @@
         "Out for the Count",
         "Magnetic Fields Entertainment"
       ],
-      "popularity": 56.9388
+      "popularity": 57.867
     },
     {
       "title": "My Fault",
@@ -10697,7 +10772,7 @@
         "Film i Väst",
         "ReelMedia"
       ],
-      "popularity": 49.6389
+      "popularity": 46.7673
     },
     {
       "title": "Hedda",
@@ -10707,7 +10782,7 @@
         "Thriller"
       ],
       "release_date": "2025-10-22",
-      "rating": 5.174,
+      "rating": 5.2,
       "overview": "Hedda Gabler finds herself torn between the lingering ache of a past love and the quiet suffocation of her present life. Over the course of one charged night, long-repressed desires and hidden tensions erupt—pulling her and everyone around her into a spiral of manipulation, passion, and betrayal.",
       "actors": [
         "Tessa Thompson",
@@ -10745,7 +10820,7 @@
       "production_companies": [
         "Blondie Production"
       ],
-      "popularity": 42.0611
+      "popularity": 26.2851
     },
     {
       "title": "Beyond the Curtain",
@@ -10815,7 +10890,7 @@
       "production_companies": [
         "Warner Bros. Pictures"
       ],
-      "popularity": 36.3498
+      "popularity": 22.1609
     },
     {
       "title": "Boiling Point",
@@ -10922,30 +10997,6 @@
       "popularity": 22.2508
     },
     {
-      "title": "Little Boxes",
-      "genres": [
-        "Drama"
-      ],
-      "release_date": "2017-04-14",
-      "rating": 6.1,
-      "overview": "It's the summer before 6th grade, and Clark is the new-in-town biracial kid in a sea of white. Discovering that to be cool he needs to act 'more black,' he fumbles to meet expectations, while his urban intellectual parents Mack and Gina also strive to adjust to small-town living. Equipped for the many inherent challenges of New York, the tight-knit family are ill prepared for the drastically different set of obstacles that their new community presents, and soon find themselves struggling to understand themselves and each other in this new suburban context.",
-      "actors": [
-        "Melanie Lynskey",
-        "Nelsan Ellis",
-        "Armani Jackson",
-        "Oona Laurence",
-        "Janeane Garofalo"
-      ],
-      "director": "Rob Meyer",
-      "runtime": 84,
-      "production_companies": [
-        "Related Pictures",
-        "Kid Noir Productions",
-        "Mighty Engine"
-      ],
-      "popularity": 21.3607
-    },
-    {
       "title": "Tyler Perry's Finding Joy",
       "genres": [
         "Drama"
@@ -10965,7 +11016,7 @@
       "production_companies": [
         "Tyler Perry Studios"
       ],
-      "popularity": 33.0907
+      "popularity": 35.0004
     },
     {
       "title": "Black Dog",
@@ -11000,7 +11051,7 @@
         "Drama"
       ],
       "release_date": "2025-04-03",
-      "rating": 6.734,
+      "rating": 6.737,
       "overview": "A group of disillusioned outsiders abandon modern society in search of a new beginning. Settling on a remote, uninhabited island, their utopian dream quickly unravels as they discover that the greatest threat isn’t the brutal climate or deadly wildlife, but each other.",
       "actors": [
         "Sydney Sweeney",
@@ -11126,7 +11177,7 @@
         "War"
       ],
       "release_date": "2025-08-21",
-      "rating": 6.899,
+      "rating": 6.9,
       "overview": "During the Vietnam War, a recon unit ventures to an isolated jungle valley to uncover the fate of a missing platoon. They soon find themselves in a fight for their lives against an unexpected enemy — prehistoric dinosaurs.",
       "actors": [
         "Jeremy Piven",
@@ -11140,7 +11191,7 @@
       "production_companies": [
         "Sparke Films"
       ],
-      "popularity": 70.812
+      "popularity": 70.3661
     },
     {
       "title": "Prisoner of War",
@@ -11223,7 +11274,7 @@
         "Film i Väst",
         "ReelMedia"
       ],
-      "popularity": 49.6389
+      "popularity": 46.7673
     },
     {
       "title": "The Chinese Widow",
@@ -11489,7 +11540,7 @@
         "Elizabeth Bay Productions",
         "Aceway Productions"
       ],
-      "popularity": 22.951
+      "popularity": 15.3051
     },
     {
       "title": "Dead to Rights",
@@ -11537,7 +11588,7 @@
       "production_companies": [
         "GMA Pictures"
       ],
-      "popularity": 22.5099
+      "popularity": 13.6865
     },
     {
       "title": "Europa Europa",
@@ -12228,7 +12279,7 @@
         "History"
       ],
       "release_date": "2025-10-01",
-      "rating": 6.471,
+      "rating": 6.493,
       "overview": "In the late 1990s, up-and-coming mixed martial artist Mark Kerr aspires to become the greatest fighter in the world. However, he must also battle his opiod dependence and a volatile relationship with his girlfriend Dawn.",
       "actors": [
         "Dwayne Johnson",
@@ -12245,7 +12296,7 @@
         "Out for the Count",
         "Magnetic Fields Entertainment"
       ],
-      "popularity": 56.9388
+      "popularity": 57.867
     },
     {
       "title": "The Chinese Widow",
@@ -12482,7 +12533,7 @@
         "Parkway Productions",
         "Brian Grazer Productions"
       ],
-      "popularity": 25.8525
+      "popularity": 14.4641
     },
     {
       "title": "The Yin Yang Master Zero",
@@ -12708,7 +12759,7 @@
         "Douglas Gerrard",
         "Jack Holt"
       ],
-      "director": "Lois Weber",
+      "director": "Phillips Smalley",
       "runtime": 115,
       "production_companies": [
         "Universal Pictures"
@@ -12804,7 +12855,7 @@
         "Elizabeth Bay Productions",
         "Aceway Productions"
       ],
-      "popularity": 22.951
+      "popularity": 15.3051
     },
     {
       "title": "De Sade",
@@ -12874,7 +12925,7 @@
       "production_companies": [
         "GMA Pictures"
       ],
-      "popularity": 22.5099
+      "popularity": 13.6865
     },
     {
       "title": "Europa Europa",
@@ -13190,7 +13241,7 @@
         "Science Fiction"
       ],
       "release_date": "2025-05-17",
-      "rating": 7.245,
+      "rating": 7.244,
       "overview": "The wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family.",
       "actors": [
         "Maia Kealoha",
@@ -13296,7 +13347,7 @@
         "Science Fiction"
       ],
       "release_date": "2025-06-18",
-      "rating": 6.969,
+      "rating": 6.959,
       "overview": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.",
       "actors": [
         "Yonas Kibreab",
@@ -13360,7 +13411,7 @@
       "production_companies": [
         "Guerra Toons"
       ],
-      "popularity": 52.5866
+      "popularity": 47.0885
     },
     {
       "title": "Dr. Seuss's The Sneetches",
@@ -13399,7 +13450,7 @@
         "Yann Bean",
         "Aimee La Joie"
       ],
-      "director": "Sophie Li",
+      "director": "Adel Sabi",
       "runtime": 6,
       "production_companies": [
         "Gobelins",
@@ -13522,7 +13573,7 @@
       "production_companies": [
         "Walt Disney Animation Studios"
       ],
-      "popularity": 27.2944
+      "popularity": 20.8352
     },
     {
       "title": "Happy Feet",
@@ -13865,7 +13916,7 @@
         "Family"
       ],
       "release_date": "2009-02-05",
-      "rating": 7.897,
+      "rating": 7.9,
       "overview": "Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
       "actors": [
         "Dakota Fanning",
@@ -13990,7 +14041,7 @@
         "LAIKA",
         "Annapurna Pictures"
       ],
-      "popularity": 24.5366
+      "popularity": 16.9359
     },
     {
       "title": "A Minecraft Movie",
@@ -14041,7 +14092,7 @@
         "Holedigger Films",
         "Knightscove Entertainment"
       ],
-      "popularity": 24.398
+      "popularity": 17.0047
     },
     {
       "title": "Happy Feet Two",
@@ -14129,7 +14180,7 @@
         "Music"
       ],
       "release_date": "2025-06-20",
-      "rating": 8.23,
+      "rating": 8.232,
       "overview": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
       "actors": [
         "Arden Cho",
@@ -14226,7 +14277,7 @@
         "Romance"
       ],
       "release_date": "2020-06-10",
-      "rating": 6.996,
+      "rating": 6.998,
       "overview": "Set in the dazzling world of the LA music scene comes the story of Grace Davis, a superstar whose talent, and ego, have reached unbelievable heights. Maggie is Grace’s overworked personal assistant who’s stuck running errands, but still aspires to her childhood dream of becoming a music producer. When Grace’s manager presents her with a choice that could alter the course of her career, Maggie and Grace come up with a plan that could change their lives forever.",
       "actors": [
         "Dakota Johnson",
@@ -14268,7 +14319,7 @@
         "Tempest Film",
         "ARTE"
       ],
-      "popularity": 43.6944
+      "popularity": 24.9885
     },
     {
       "title": "Dance Craze",
@@ -14317,7 +14368,7 @@
         "EON Productions",
         "Ventureland"
       ],
-      "popularity": 24.3578
+      "popularity": 16.5798
     },
     {
       "title": "This Is It",
@@ -14595,7 +14646,7 @@
       "production_companies": [
         "Metro-Goldwyn-Mayer"
       ],
-      "popularity": 23.616
+      "popularity": 16.2746
     },
     {
       "title": "Christmas in My Heart",
@@ -14728,7 +14779,7 @@
       "production_companies": [
         "Metro-Goldwyn-Mayer"
       ],
-      "popularity": 23.1412
+      "popularity": 15.2106
     },
     {
       "title": "Love Notes",
@@ -15174,11 +15225,12 @@
       "title": "Ballad of a Small Player",
       "genres": [
         "Crime",
+        "Drama",
         "Mystery",
         "Thriller"
       ],
       "release_date": "2025-10-15",
-      "rating": 5.93,
+      "rating": 5.9,
       "overview": "Amid the glittering casinos of Macau, a gambler running from his past — and his debts — becomes fascinated by an enigmatic woman at the baccarat table.",
       "actors": [
         "Colin Farrell",
@@ -15355,7 +15407,7 @@
         "Mystery"
       ],
       "release_date": "2025-08-04",
-      "rating": 7.3,
+      "rating": 7.338,
       "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
       "actors": [
         "Julia Garner",
@@ -15397,7 +15449,7 @@
       "production_companies": [
         "MGI Films"
       ],
-      "popularity": 46.581
+      "popularity": 41.6859
     },
     {
       "title": "From Darkness",
@@ -15447,7 +15499,7 @@
         "LD Entertainment",
         "Door Number 3 Films"
       ],
-      "popularity": 35.8976
+      "popularity": 36.4651
     },
     {
       "title": "Final Destination Bloodlines",
@@ -15465,7 +15517,7 @@
         "Richard Harmon",
         "Owen Patrick Joyner"
       ],
-      "director": "Adam B. Stein",
+      "director": "Zach Lipovsky",
       "runtime": 110,
       "production_companies": [
         "New Line Cinema",
@@ -15483,7 +15535,7 @@
         "Mystery"
       ],
       "release_date": "2011-08-17",
-      "rating": 7.5,
+      "rating": 7.493,
       "overview": "A brilliant plastic surgeon creates a synthetic skin that withstands any kind of damage. His guinea pig: a mysterious and volatile woman who holds the key to his obsession.",
       "actors": [
         "Antonio Banderas",
@@ -15620,7 +15672,7 @@
         "Mystery"
       ],
       "release_date": "2014-10-21",
-      "rating": 6.5,
+      "rating": 6.547,
       "overview": "What starts as a poignant medical documentary about Deborah Logan's descent into Alzheimer's disease and her daughter's struggles as caregiver degenerates into a maddening portrayal of dementia at its most frightening, as hair-raising events begin to plague the family and crew and an unspeakable malevolence threatens to tear the very fabric of sanity from them all.",
       "actors": [
         "Jill Larson",
@@ -16610,7 +16662,7 @@
       "production_companies": [
         "Paramount Pictures"
       ],
-      "popularity": 19.7399
+      "popularity": 10.8675
     },
     {
       "title": "Arizona Bound",
@@ -16934,7 +16986,7 @@
         "Howard Braunstein Films",
         "Kabinet"
       ],
-      "popularity": 31.1511
+      "popularity": 27.6014
     },
     {
       "title": "Holiday Engagement",
@@ -16960,7 +17012,7 @@
         "Johnson Production Group",
         "ITV Global Entertainment"
       ],
-      "popularity": 27.9317
+      "popularity": 14.2354
     },
     {
       "title": "The Sound of 007",
@@ -16985,7 +17037,7 @@
         "EON Productions",
         "Ventureland"
       ],
-      "popularity": 24.3578
+      "popularity": 16.5798
     },
     {
       "title": "It Happened at Lakewood Manor",
@@ -17218,7 +17270,7 @@
       "director": "Jason Bourque",
       "runtime": 87,
       "production_companies": [],
-      "popularity": 24.958
+      "popularity": 17.9958
     },
     {
       "title": "Fail Safe",
@@ -17368,7 +17420,7 @@
         "Fairuza Balk",
         "Gina Lollobrigida"
       ],
-      "director": "Robert Chenault",
+      "director": "Melville Shavelson",
       "runtime": 180,
       "production_companies": [],
       "popularity": 16.499
@@ -17393,7 +17445,7 @@
       "production_companies": [
         "MarVista Entertainment"
       ],
-      "popularity": 23.2486
+      "popularity": 15.9981
     },
     {
       "title": "V.C. Andrews' Hidden Jewel",
@@ -17480,7 +17532,7 @@
         "Sunshine Films",
         "Reel One Entertainment"
       ],
-      "popularity": 23.1065
+      "popularity": 15.3604
     },
     {
       "title": "Sharktopus vs. Whalewolf",
@@ -17574,7 +17626,7 @@
         "Big Dreams Entertainment",
         "Hallmark Media"
       ],
-      "popularity": 22.9192
+      "popularity": 15.6499
     },
     {
       "title": "A Lover's Revenge",
@@ -17800,7 +17852,7 @@
         "Tempest Film",
         "ARTE"
       ],
-      "popularity": 43.6944
+      "popularity": 24.9885
     },
     {
       "title": "Genesis 2.0",
@@ -17817,12 +17869,12 @@
         "Hwang Woo-suk",
         "Shimon Volpert"
       ],
-      "director": "Christian Frei",
+      "director": "Maxim Arbugaev",
       "runtime": 113,
       "production_companies": [
         "Christian Frei Filmproductions"
       ],
-      "popularity": 30.0935
+      "popularity": 18.5442
     },
     {
       "title": "Dance Craze",
@@ -17864,7 +17916,7 @@
       "director": "Taylor Steele",
       "runtime": 40,
       "production_companies": [],
-      "popularity": 26.5166
+      "popularity": 14.7387
     },
     {
       "title": "Cowboy Poets",
@@ -18057,7 +18109,7 @@
       "production_companies": [
         "Double Edge Films"
       ],
-      "popularity": 24.6857
+      "popularity": 17.7319
     },
     {
       "title": "Stutz",
@@ -18094,7 +18146,7 @@
         "G. Eric Carpenter",
         "Rhett Grametbauer"
       ],
-      "director": "G. Eric Carpenter",
+      "director": "Rhett Grametbauer",
       "runtime": 93,
       "production_companies": [],
       "popularity": 15.8462
@@ -18122,7 +18174,7 @@
         "EON Productions",
         "Ventureland"
       ],
-      "popularity": 24.3578
+      "popularity": 16.5798
     },
     {
       "title": "Collective",
@@ -18150,7 +18202,7 @@
         "Sundance Institute",
         "CNC"
       ],
-      "popularity": 24.2348
+      "popularity": 17.1431
     },
     {
       "title": "The Witness",
@@ -18294,7 +18346,7 @@
         "Roberto Di Girolamo",
         "Ruggero Deodato"
       ],
-      "director": "Manlio Gomarasca",
+      "director": "Massimiliano Zanin",
       "runtime": 73,
       "production_companies": [
         "Fairway Film",
@@ -18466,7 +18518,7 @@
       "director": "Steve Lawson",
       "runtime": 60,
       "production_companies": [],
-      "popularity": 23.2473
+      "popularity": 15.9863
     },
     {
       "title": "Strip Down, Rise Up",
@@ -18487,7 +18539,7 @@
       "production_companies": [
         "Kavana Entertainment"
       ],
-      "popularity": 23.1538
+      "popularity": 15.6531
     },
     {
       "title": "The Outsider: The Cinema of Antonio Margheriti",
@@ -18605,7 +18657,7 @@
       "director": "Tariq Nasheed",
       "runtime": 109,
       "production_companies": [],
-      "popularity": 22.8408
+      "popularity": 15.0555
     },
     {
       "title": "The Spy Who Fell to Earth",
