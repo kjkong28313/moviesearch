@@ -119,7 +119,7 @@ def main():
             - Extract search parameters
             
             **2. Candidate Retrieval**
-            - Search multiple sources
+            - Search popular movie source
             - Rank by relevance
             - Apply filters and intersections
             
