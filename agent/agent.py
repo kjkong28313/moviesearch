@@ -172,7 +172,7 @@ User query: "{user_query}"
 Here are some candidate movies:
 {movie_data}
 
-Respond with **only valid JSON**. The title and reason can repeat for multiple movie recommendations.  You can use all the info provided to you such as release_date, director, rating to do the recommendations. Do not use your own recommendation if the movie_data does not match the query. Use this exact format:
+Respond with **only valid JSON**. The title and reason can repeat for multiple movie recommendations.  You can use all the info provided to you such as release_date, director, rating to do the recommendations. Do not use your own recommendation if the movie data does not match the query.  If there is no match, say no match. Use this exact format:
 
 {{
   "recommendations": [
