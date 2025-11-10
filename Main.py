@@ -119,32 +119,34 @@ def display_movie_offers(recommendations, serpapi_key):
     """Display available offers for each movie"""
     if not recommendations or not serpapi_key:
         return
-    
+
     offer_agent = MovieOfferAgent(serpapi_key=serpapi_key)
-    
     st.markdown("### 🎯 Where to Watch")
-    
+
     for idx, rec in enumerate(recommendations, start=1):
         title = rec.get("title", "").strip()
         reason = rec.get("reason", "No reason provided")
-        
+
         if not title:
             continue
-        
+
         with st.expander(f"🎬 {title}", expanded=(idx == 1)):
             st.markdown(f"**Why recommended:** {reason}")
-            
+
             with st_loading(f"Searching offers for '{title}'..."):
                 offers = offer_agent.search_offers(title)
-            
+
             valid_offers = [o for o in (offers or []) if isinstance(o, dict) and any(o.values())]
-            
+
             if valid_offers:
                 for offer in valid_offers:
-                    url = offer.get("URL", "")
-                    if url:
-                        offer["URL"] = f"[Watch here]({url})"
-                
+                    # Replace empty fields with "n.a."
+                    for key in ["Platform", "Format", "Rent", "Buy", "Costs", "URL"]:
+                        offer[key] = offer.get(key) or "n.a."
+                    # Format URL if present
+                    if offer["URL"] != "n.a.":
+                        offer["URL"] = f"[Watch here]({offer['URL']})"
+
                 df_offer = pd.DataFrame(valid_offers)
                 cols_to_display = ["Platform", "Format", "Rent", "Buy", "Costs", "URL"]
                 df_offer = df_offer[[col for col in cols_to_display if col in df_offer.columns]]
