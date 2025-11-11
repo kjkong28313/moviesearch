@@ -320,7 +320,7 @@ def main():
     
     with col1:
         if st.button("🏠 Main", width='stretch'):
-            st.switch_page("main.py")
+            st.switch_page("Main.py")
     
     with col2:
         if st.button("🎬 View Movies", width='stretch'):
@@ -328,7 +328,7 @@ def main():
     
     with col3:
         if st.button("🔍 Search", width='stretch'):
-            st.switch_page("main.py")
+            st.switch_page("Main.py")
 
 
 if __name__ == "__main__":
