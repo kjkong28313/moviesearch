@@ -1,10 +1,1 @@
-Title: Now, Voyager
-Overview: A woman suffers a nervous breakdown and an oppressive mother before being freed by the love of a man she meets on a cruise.
-Genres: Drama, Romance
-Release Date: 1942-10-22
-Rating: 7.3
-Popularity: 22.1609
-Director: Irving Rapper
-Actors: Bette Davis, Paul Henreid, Claude Rains, Gladys Cooper, Bonita Granville
-Production Companies: Warner Bros. Pictures
-Runtime: 117xpect
+invalid type: string "Title: The Fighting Fists of Shanghai Joe\nOverview: A Chinese immigrant, recently arrived in America, fights to free Mexican slaves from their cruel master.\nGenres: Western\nRelease Date: 1973-12-28\nRating: 4.944\nPopularity: 15.4935\nDirector: Mario Caiano\nActors: Chen Lee, Klaus Kinski, Gordon Mitchell, Claudio Undari, Carla Mancini\nves to reclaim her.", expected f64f 

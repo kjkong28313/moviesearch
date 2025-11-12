@@ -201,7 +201,7 @@ def show_login_page():
     col1, col2, col3 = st.columns([1, 2, 1])
     
     with col2:
-        st.markdown('<div class="login-header">🎬 Movie System</div>', unsafe_allow_html=True)
+        st.markdown('<div class="login-header">🎬 Movie Recommendation System</div>', unsafe_allow_html=True)
         st.markdown("### 🔐 Login")
         
         with st.form("login_form"):
