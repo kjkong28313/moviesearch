@@ -516,9 +516,11 @@ class MovieOfferAgent:
             return "Amazon"
         return ""  # Return empty string when platform not found
 
-    def search_offers(self, movie_title):
+    def search_offers(self, movie_title, release_date):
         cleaned_title = re.sub(r"\s*\(\d{4}(-\d{2}){0,2}\)", "", movie_title).strip()
-        query = f"buy rent stream {cleaned_title} movie site:justwatch.com OR site:amazon.com OR site:apple.com OR site:google.com/movies"
+        release_year = release_date.split("-")[0]
+        print(release_year)
+        query = f'buy rent stream "{cleaned_title}" {release_year} movie site:justwatch.com OR site:amazon.com OR site:apple.com OR site:google.com/movies'
         print(query)
 
         params = {

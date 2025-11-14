@@ -122,10 +122,12 @@ def display_movie_offers(recommendations, serpapi_key):
 
     offer_agent = MovieOfferAgent(serpapi_key=serpapi_key)
     st.markdown("### 🎯 Where to Watch")
-
+    print("recommendations:", recommendations)
     for idx, rec in enumerate(recommendations, start=1):
         title = rec.get("title", "").strip()
         reason = rec.get("reason", "No reason provided")
+        release_date = rec.get("release_date", "").strip()
+        print("main:Release Year:", release_date)
 
         if not title:
             continue
@@ -134,7 +136,7 @@ def display_movie_offers(recommendations, serpapi_key):
             st.markdown(f"**Why recommended:** {reason}")
 
             with st_loading(f"Searching offers for '{title}'..."):
-                offers = offer_agent.search_offers(title)
+                offers = offer_agent.search_offers(title, release_date)
 
             valid_offers = [o for o in (offers or []) if isinstance(o, dict) and any(o.values())]
 
