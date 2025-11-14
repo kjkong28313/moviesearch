@@ -67,7 +67,7 @@ def main():
     st.markdown("""
     This page explains the **methodology and workflow** of our movie recommendation system. 
     The flowcharts below demonstrate how each component works together to deliver accurate 
-    movie recommendations using a combination of agentic AI, semantic search, and structured filtering.
+    movie recommendations using a combination of RAG, agentic AI, semantic search, and structured filtering.
     """)
     
     st.divider()
