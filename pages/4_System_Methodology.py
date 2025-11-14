@@ -93,7 +93,7 @@ def main():
             - Uses AI embeddings (SentenceTransformer)
             - Understands natural language queries
             - Finds movies by meaning, not just keywords
-            - 384-dimensional vector space
+            - 459-dimensional vector space
             
             **2. Structured Search**
             - Index-based filtering
@@ -166,7 +166,7 @@ def main():
             st.markdown("""
             **🧠 Vector Embedding**
             - Model: all-MiniLM-L6-v2
-            - 384 dimensions
+            - 459 dimensions
             - ChromaDB storage
             - Cosine similarity
             - Real-time querying
